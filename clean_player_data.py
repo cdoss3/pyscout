@@ -3,21 +3,15 @@
 import argparse
 import pandas as pd
 
-parser = argparse.ArgumentParser(description=('Clean Wyscout player data. Provide a .xlsx file to be cleaned, output .csv file in /pyscout/datasets'))
+# Argument parser for CLI integration
+# TO-DO - Add error handling for incorrect file types in input
+
+parser = argparse.ArgumentParser(description='Clean Wyscout player data. Provide a .xlsx file to be cleaned, output .csv file in /pyscout/datasets')
 
 parser.add_argument('-f', '--file', help="REQUIRED -- Provide the path to the .xlsx file to be cleaned", default=None)
 parser.add_argument('-o', '--output', help="REQUIRED -- Provide the path to the output .csv file", default=None)
 
 args = parser.parse_args()
-#
-# with open(args.file, 'r') as file:
-#    lines = [line for line in file.readlines()]
-#    for line in lines:
-#        print(line)
-#
-# with open(args.output, 'w') as file:
-#    file.write('Does this print to an output file?')
-#
 
 # Import excel file to dataframe
 

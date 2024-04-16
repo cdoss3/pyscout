@@ -14,13 +14,13 @@ df = pd.read_csv(datapath)
 # Scatterplot, player vs xG
 # Add a secondary df, limit xG to > 0.2
 
+subset = df[['xg','name']]
+xg = subset[subset['xg']>1]
 
+x = xg['xg']
+y = xg['name']
 
-
-x = df['xg']
-y = df['name']
-
-# plt.scatter(x, y)
-# plt.show()
+plt.scatter(x, y)
+plt.show()
 
 
