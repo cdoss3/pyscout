@@ -1,1 +1,6 @@
 this is a test file,separated by commas, 21, 18
+and
+now
+separated
+by
+spaces
