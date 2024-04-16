@@ -1,0 +1,108 @@
+name
+team
+position
+birth year
+appearances
+minutes
+goals
+xg
+assists
+xa
+duels per 90
+duels won pct
+birth country
+passport country
+successful defensive actions per 90
+defensive duels per 90
+defensive duels won pct
+aerial duels per 90
+aerial duels won pct
+sliding tackles per 90
+padj sliding tackles
+shots blocked per 90
+interceptions per 90
+padj interceptions
+fouls per 90
+yellow cards
+yellow cards per 90
+red cards
+red cards per 90
+successful attacking actions per 90
+goals per 90
+non pen goals
+non pen goals per 90
+xg per 90
+head goals
+head goals per 90
+shots
+shots per 90
+shots on target pct
+goal conversion pct
+assists per 90
+crosses per 90
+accurate crosses pct
+crosses from left flank per 90
+accurate crosses from left flank pct
+crosses from right flank per 90
+accurate crosses from right flank pct
+crosses to goalie box per 90
+dribbles per 90
+successful dribbles pct
+offensive duels per 90
+offensive duels won pct
+touches in box per 90
+progressive runs per 90
+accelerations per 90
+received passes per 90
+received long passes per 90
+fouls suffered per 90
+passes per 90
+accurate passes pct
+forward passes per 90
+accurate forward passes pct
+back passes per 90
+accurate back passes pct
+lateral passes per 90
+accurate lateral passes pct
+short/medium passes per 90
+accurate short/medium passes pct
+long passes per 90
+accurate long passes pct
+average pass length (m)
+average long pass length (m)
+xa per 90
+shot assists per 90
+second assists per 90
+third assists per 90
+smart passes per 90
+accurate smart passes pct
+key passes per 90
+passes to final third per 90
+accurate passes to final third pct
+passes to penalty area per 90
+accurate passes to penalty area pct
+through passes per 90
+accurate through passes pct
+deep completions per 90
+deep completed crosses per 90
+progressive passes per 90
+accurate progressive passes pct
+conceded goals
+conceded goals per 90
+shots against
+shots against per 90
+clean sheets
+save rate pct
+xg against
+xg against per 90
+prevented goals
+prevented goals per 90
+gk passes received
+exits per 90
+aerial duels per 90
+free kicks per 90
+direct free kicks per 90
+direct free kicks on target pct
+corners per 90
+penalties taken
+penalty conversion pct

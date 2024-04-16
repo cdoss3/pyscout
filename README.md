@@ -12,8 +12,8 @@ From Linux CLI:
 
 TO-DO:
 
-    - Make the script function (Import previous work from Jupyter Notebook)
+    - generate_common_plots to input a .csv file and output a set of common data visualizations as .png files
     - Add config file to designate default file input and output locations
     - Add functionality for handling team data
     - Add option to automatically generate certain plots/analysis based on cli args
-    - Make this back-end, add GUI front-end
+    - GUI front-end
