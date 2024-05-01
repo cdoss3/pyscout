@@ -1,4 +1,4 @@
-A collection of python modules to be able to quickly clean data from Wyscout .csv files.
+A collection of python modules to be able to quickly clean and explore data from Wyscout .csv files.
 
 USAGE:
 
@@ -12,6 +12,7 @@ From Linux CLI:
 
 TO-DO:
 
+    - Add functionality to automatically set axis limits based on maximum data values
     - generate_common_plots to input a .csv file and output a set of common data visualizations as .png files
     - Add config file to designate default file input and output locations
     - Add functionality for handling team data
