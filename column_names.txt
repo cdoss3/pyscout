@@ -5,11 +5,11 @@ birth year
 appearances
 minutes
 goals
-xg
+    xg
 assists
-xa
+    xa
 duels per 90
-duels won pct
+    duels won pct
 birth country
 passport country
 successful defensive actions per 90
@@ -27,15 +27,15 @@ yellow cards
 yellow cards per 90
 red cards
 red cards per 90
-successful attacking actions per 90
+    successful attacking actions per 90
 goals per 90
 non pen goals
-non pen goals per 90
+    non pen goals per 90
 xg per 90
 head goals
 head goals per 90
 shots
-shots per 90
+    shots per 90
 shots on target pct
 goal conversion pct
 assists per 90
@@ -49,8 +49,8 @@ crosses to goalie box per 90
 dribbles per 90
 successful dribbles pct
 offensive duels per 90
-offensive duels won pct
-touches in box per 90
+    offensive duels won pct
+    touches in box per 90
 progressive runs per 90
 accelerations per 90
 received passes per 90
